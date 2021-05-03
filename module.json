@@ -1,0 +1,15 @@
+{
+	"disableAutoUpdate": true,
+	"name": "instant-revive",
+	"author": "Lambda11",
+	"description": "Makes your revive instant",
+	"options": {
+		"niceName": "Instant-Revive",
+		"guiName": "Instant-Revive",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "settings_migrator.js"
+	},
+	"servers": ["https://raw.githubusercontent.com/KkonaW/instant-revive/master/"],
+	"supportUrl": "https://github.com/KkonaW/instant-revive/issues"
+}
