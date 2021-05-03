@@ -13,3 +13,5 @@ Also works on your party members! So you can lock onto them as Priest and use pu
 # Notes
 
 also disables black & white screen effect when you die  
+
+#Author Lambda11
